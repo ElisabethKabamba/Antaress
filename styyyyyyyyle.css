@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+p{
+    color: rgb(196, 16, 196);
+    margin-top: 0.5em;
+    font-size: 2.9rem;
+}
+.group{
+    color: grey;
+}
+.d1{
+    background-color: rgb(206, 206, 253);
+    height: 50vh;
+    width: 100vw;
+    padding: 0.5em;
+}
+.d2{
+    background-color: rgb(210, 243, 236);
+    height: 50vh;
+    width: 100vw;
+    padding: 0.5em;
+}

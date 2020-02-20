@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+p{
+    margin-top: 1em;
+}
+
+#textt{
+    color: rgb(233, 32, 72);
+}
+.mama{
+    color: rgb(151, 5, 151);
+}
+.mia{
+    color: rgb(255, 94, 129);
+}
+.nina {
+    text-decoration: none;
+    color: rgb(255, 127, 202);
+}
+.nono{
+    background-color: rgb(221, 253, 231);
+    height: 95vh;
+    width: 100vw;
+    padding: 0.5em;
+
+}
+.nini{
+    background-color: rgb(242, 247, 197);
+    height: 90vh;
+    width: 100vw;
+    padding: 0.5em;
+}
+#rererererere{
+    text-decoration: none;
+    color: rgb(255, 127, 202);
+    font-weight: bolder;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.8rem;
+    background-color: moccasin;
+   }
